@@ -7,7 +7,9 @@ There is a specific format to follow to store the Tips file. Look at the example
 
 The Read.py program will show you two tips out of your list in a round robin fashion.
 
-#Assumptions
+We use .bat file to run the Read.py file via a shortcut file
+
+# Assumptions
 
 Written for windows (though that can be changed).File names are hardcodes, but are easy to change in the program. All relevant files should be in the same folder.
 
