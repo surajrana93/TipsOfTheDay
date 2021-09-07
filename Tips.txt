@@ -1,0 +1,92 @@
+Meditation
+Dont try to move away or near to anything. Everything in its own place
+
+---------
+Meditation
+When observing everything in its place, observe what you are doing as well. This is in addition to everything else. Eventually YOU will disappear.
+
+---------
+Excercise
+If you want to stick with excercise, better to do not be doing something lazy atleast 2 hrs before excercising.
+
+---------
+Work
+Notice if you are going too fast in your mental processes. While that can be good when focussed, its not a good idea when you are jumping around.
+
+When you notice yourself going to fast, physically and mentally slow down. Notice what you are doing. Follow your breath.
+
+Slowing down and deliberately doing something will improve your rate of work because you'll waste a lot less time and only do things once.
+
+
+-----------
+Work
+Your work doesn't have to affect your mood or stress you out. Be calmly detached from work blockers and ambiguity
+
+
+----------
+Work
+Whenever you feel stuck or frustrated, there's just one thing to do. LET GO. Let go of the think you're fixated on. The thing that is causing you all this stress.
+
+This isn't defeatism. Its just a way to focus on what truely matters. The present.
+
+
+------
+Work
+You need to learn to tough through situations where it seems there is no way out. You need to learn to put your down and grind. More often than not,you find a solution. Get used to that uncomfortablesness of not knowing the outcome, and still putting in your best efforts.
+
+------
+Learning
+You have to arrange the topics you learn into a logical picture. This makes it easy to remember
+
+
+
+--------
+Hiring
+When it comes to leetcode style interviews. There are 2 things to train
+
+1. Learning the common patterns and gotchas that reduce your time to solution
+
+2. IMPORTANT The feeling of not knowing an answer and still iterating to a solution. Being able to blindly tackle a new question on the fly and not panicking while doing it.
+
+--------
+Productivity
+As you learn stuff while doing, keep making notes and ankying
+
+
+-------
+Productivity
+Keep going back the foundations of a system and change it so that the impact of your product is stacked up.
+If you want to easily make big changes, look at the base layers that are running. Eg Modifying TCP has stacked affects at the http level.
+What happens if you rethink IP
+
+
+---------
+Work
+If you want to generate valuable product look at something that can either make money or save money. Thats value generation. The reason nginx is expensive is it speeds up your response and increases your scale. Kubernetes is useful because it saves the cost of devops. Dont think at the layer of mechanics of the components. Think of problems and situations and ideas that generate value, and work backward from that to generate the system you want to sell.
+
+
+-------
+Productivity
+Easiest way to generate ideas is to learn new things or tools and applying to existing systems.
+
+
+
+----------
+Work
+When someone shows you a tool or process or link,document it immediately or put it in your Topics list.
+
+
+----------
+Sleep
+If you have trouble sleeping, dont keep checking the watch. That just adds to your anxiety.
+
+
+
+
+-------------------
+Work
+A lot of time your work negatively affects you. That causes you to procastinate and not make progress. Recognize the affect work is having on your mood. And then use meditation to clear it away. Smile internally.
+
+------------------
+Work
+An important skill is you being dropped into an unknown task and you driving yourself to completion. Dont be afraid to dive head first into unknown tasks
