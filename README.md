@@ -11,6 +11,6 @@ We use .bat file to run the Read.py file via a shortcut file
 
 # Assumptions
 
-Written for windows (though that can be changed).File names are hardcodes, but are easy to change in the program. All relevant files should be in the same folder.
+Written for windows (though that can be changed).File names are hardcoded, but are easy to change in the program. All relevant files should be in the same folder.
 
 
