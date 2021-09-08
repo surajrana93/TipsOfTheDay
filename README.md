@@ -1,7 +1,7 @@
 # TipsOfTheDay
 A tip of the day program written in python
 
-This program is designed for you to store tips,learnings and reminders that you wont to be shown everyday. These 'Tips' are kept in a seperate file.
+This program is designed for you to store tips,learnings and reminders that you want to be shown everyday. These 'Tips' are kept in a seperate file.
 
 There is a specific format to follow to store the Tips file. Look at the example. It expects ---- delimiter and a category. We use the Main.py program to convert the Tips file into a feed for the Read.py program.
 
