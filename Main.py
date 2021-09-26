@@ -1,6 +1,7 @@
 import tkinter as tk
 import json
 from tkinter import messagebox as mb
+import random
 
 
 class tips:
@@ -47,6 +48,8 @@ temp ={}
 temp['category'] = category
 temp['lines'] = tipLines
 tipsList.append(temp)
+
+random.shuffle(tipsList)
 
 file = open('C:\Workspace\Experiment\Reminder\json.txt', 'w')
 
